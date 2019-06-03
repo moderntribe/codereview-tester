@@ -13,6 +13,10 @@ class badClassName
       return;
     }
     
+    if($x){
+      return;
+    }
+    
     echo 'hello';
   }
 }
